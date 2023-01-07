@@ -1,2 +1,2 @@
-# Shot
-Chess bot
+# Schachomat
+Chess bot in progress
